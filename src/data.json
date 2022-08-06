@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Personal Portifolio",
+      "autor": "Lesley Atinkson",
+      "price": "49,00",
+      "coverImageUri": "/assets/1.png"
+    },
+    {
+      "id": 2,
+      "title": "Short Stories",
+      "autor": "Callum Burns",
+      "price": "99,90",
+      "coverImageUri": "/assets/2.png"
+    },
+    {
+      "id": 3,
+      "title": "Shapeshifting",
+      "autor": "Jaden Gardner",
+      "price": "39,24",
+      "coverImageUri": "/assets/3.png"
+    },
+    {
+      "id": 4,
+      "title": "Cosmoland",
+      "autor": "Denny Willis",
+      "price": "59,00",
+      "coverImageUri": "/assets/4.png"
+    },
+    {
+      "id": 5,
+      "title": "Summer Book Report",
+      "autor": "Lucy Smith",
+      "price": "49,00",
+      "coverImageUri": "/assets/5.png"
+    },
+    {
+      "id": 6,
+      "title": "In The Woods",
+      "autor": "Lilli Howe",
+      "price": "109,00",
+      "coverImageUri": "/assets/6.png"
+    },
+    {
+      "id": 7,
+      "title": "Visit Scotland",
+      "autor": "The Traveler",
+      "price": "79,00",
+      "coverImageUri": "/assets/7.png"
+    },
+    {
+      "id": 8,
+      "title": "Never Stop Dreaming",
+      "autor": "Edith Billiams",
+      "price": "29,00",
+      "coverImageUri": "/assets/8.png"
+    }
+  ]
+}
